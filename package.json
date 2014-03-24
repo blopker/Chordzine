@@ -1,0 +1,19 @@
+{
+  "name": "chordzine",
+  "version": "0.0.0",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "~3.5.0",
+    "gulp-load-plugins": "~0.3.0",
+    "gulp-jshint": "~1.4.0",
+    "gulp-imagemin": "~0.1.4",
+    "gulp-clean": "~0.2.4",
+    "gulp-size": "~0.1.2",
+    "gulp-connect": "~1.0.0",
+    "gulp-browserify": "~0.4.6",
+    "gulp-sass": "^0.7.1"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  }
+}
